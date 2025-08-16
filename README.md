@@ -13,5 +13,5 @@ Pequeno projeto em **Python** para estabelecer conexões com servidores via **TC
 ## ▶️ Como usar
 1. Clonar o repositório:
    ```bash
-   git clone https://github.com/teu-usuario/tcp_connection.git
+   git clone https://github.com/BitDrivinidade/tcp_connection.git
    cd tcp_connection
